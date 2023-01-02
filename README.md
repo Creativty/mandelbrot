@@ -11,9 +11,10 @@ $ ./build.sh
 $ ./build/viewer
 ```
 
-You can **zoom in** using [`H`: x0.25] or [`J`: x1.00]
-You can **zoom out** using [`G`: x0.25] or [`F`: x1.00]
-You can **force re-render** using `I` 
-You can **quit** using `<ESC>`
+## Controls
+**zoom in**  using (`H` x0.25) or (`J` x1.00)<br>
+**zoom out** using (`G` x0.25) or (`F` x1.00)<br>
+**quit**     using `<ESC>`<br>
+**force re-render** using `I` <br>
 
 *NOTE: The viewer is incredibly slow at zoom +8.0 so be mindful of that.*

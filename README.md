@@ -1,7 +1,7 @@
 # Mandelbrot Viewer
 A simple monochromatic Mandelbrot set viewer implemented in Odin
 
-<img src="/assets/default.png" width="50%"></img> <img src="/assets/zoom_in.png" width="50%"></img>
+<img src="/assets/default.png" width="40%"></img> <img src="/assets/zoom_in.png" width="40%"></img>
 
 ### References
 [Mandelbrot set (Wikipedia Article)](https://en.wikipedia.org/wiki/Mandelbrot_set)

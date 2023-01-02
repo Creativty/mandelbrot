@@ -7,10 +7,15 @@ A simple monochromatic Mandelbrot set viewer implemented in Odin
 [Mandelbrot set (Wikipedia Article)](https://en.wikipedia.org/wiki/Mandelbrot_set)
 
 ## Installation
-
+#### Linux
 ```bash
 $ ./build.sh
 $ ./build/viewer
+```
+#### Windows
+```batch
+> ./build.bat
+> ./build/viewer.exe
 ```
 
 ## Controls
